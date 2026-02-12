@@ -1,4 +1,4 @@
-provisionamiento Automatizado de OpenLDAP y BIND9 (DNS)
+Aprovisionamiento Automatizado de OpenLDAP y BIND9 (DNS)
 
 Este repositorio contiene un script de Bash diseñado para automatizar el aprovisionamiento desatendido de un servidor de directorio OpenLDAP y un servidor de nombres BIND9 en entornos basados en Debian/Ubuntu.
 🚀 Descripción del Proyecto
